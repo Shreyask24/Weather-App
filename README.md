@@ -1,7 +1,3 @@
-Sure, here's a basic README template for your Weather Forecast App:
-
----
-
 # Weather Forecast App
 
 ## Description
