@@ -42,12 +42,11 @@ This is a simple weather forecast web application built using React, Vite, and T
 
 This app utilizes the [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data. You need to sign up on their website to obtain an API key, which you will then use in the app to fetch data.
 
-##Screenshot
-![image](https://github.com/Shreyask24/Weather-App/assets/92247820/38b6f1c9-243c-4250-bbd5-79b169bbd878)
-
-
 ## Credits
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/api).
+
+## Screenshot
+![image](https://github.com/Shreyask24/Weather-App/assets/92247820/38b6f1c9-243c-4250-bbd5-79b169bbd878)
 
 Feel free to customize this README according to your project's specific details and requirements!
